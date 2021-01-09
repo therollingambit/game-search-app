@@ -31,3 +31,15 @@ export const popup = {
     },
   },
 };
+
+export const logoAnim = {
+  hidden: {
+    opacity: 1
+  },
+  show: {
+    scale: [1, 0.5, 0.5, 0.5, 1],
+    rotate: [0, 160, 270, 360, 0],
+    borderRadius: ["20%", "50%", "20%", "50%", "20%"],
+    transition: { duration: 2 }
+  },
+};
