@@ -1,12 +1,16 @@
 # Web app built with Create React App
 
-Redux: thunk (fetch API)
-Styling: styled-components
+Redux: thunk (fetch API) \
+Styling: styled-components \
 Animations: framer-motion
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+#### `npm install`
+
+Installs dependencies after git clone.
 
 #### `npm start`
 
